@@ -1,0 +1,8 @@
+To run this game all you have to do is open the folder and open index.html
+Also make sure the folder is Extracted!
+
+Want Desktop shortcut?
+------------------------
+Right click index.html > Send to > Desktop Shortcut
+theirs also alternative methods for your device.
+You can also install the website as a app using microsoft edge and it will recieve updates

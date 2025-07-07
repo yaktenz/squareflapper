@@ -1,0 +1,45 @@
+ACTIVE DLCS:
+CLASSICS 
+REHANCED
+
+V1.8.3
+--------------------------------------------------------------
+Blue Flames Colors Theme, Luffy's Resolve Map,
+
+V1.7.2 REHANCED
+--------------------------------------------------------------
+New menu theme "Yellow Glow". Minor Fixes to Maps. Stewie Theme Menu. 
+Can now see Active DLCS with any newer versions than 1.7.2. Fixes update broken link. 
+Settings page Update, New Game icon. Adds New HD Maps in the following list:
+- LowerUnit
+- UpperUnit
+New scrollbar to eblava. New Gradient Colors.
+
+V1.6.1
+--------------------------------------------------------------
+Now installable through StewieMods/StewieLauncher, New shortcut added to files.
+New Themes. 3 New Maps
+
+V1.5.1 CLASSICS
+--------------------------------------------------------------
+Brings Back a few challanging classics "Minecraft, Classic Spiderman, 
+OG FishTank Map" Dlc Sections, Re Design Eblava
+
+V1.4.1
+--------------------------------------------------------------
+Asset Fixes, Downloadable On Website, First Offline Version,
+New Maps
+
+V1.3.0
+--------------------------------------------------------------
+New Maps, Updated RED UI, Logo Mounted to Page, Settings Menu,
+Animated Maps, Changelog Now Public, Eblava Enhancements
+
+
+V1.2.0
+--------------------------------------------------------------
+New Maps, New UI, New Sections, Broken Map Links, Animated Maps
+
+V1.0.0
+--------------------------------------------------------------
+New Maps
