@@ -2,6 +2,12 @@ ACTIVE DLCS:
 CLASSICS 
 REHANCED
 
+V1.9.3
+--------------------------------------------------------------
+Can now run in DevTool + Special Update with DevTool, New Themes.
+Fixes Homepage border on browse. Also fixes update link. Removes
+StewieLauncher Relations. Sound effects on Maps "Minecraft, & SpiderMan"
+
 V1.8.3
 --------------------------------------------------------------
 Blue Flames Colors Theme, Luffy's Resolve Map,

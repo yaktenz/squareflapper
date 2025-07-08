@@ -189,7 +189,10 @@ function accelerate(n) {
     myGamePiece.gravity = n;
 }
 </script>
-<button style="top: 400px;" onmousedown="accelerate(-0.05)" onmouseup="accelerate(0.05)">Accelerate</button>
+
+<audio id="sound1" src="../audio/wood.mp3" preload="auto"></audio>
+
+<button onclick="document.getElementById('sound1').play();" style="top: 400px;" onmousedown="accelerate(-0.05)" onmouseup="accelerate(0.05)">Accelerate</button>
 <a href="../eblava.html"><button style="top: 400px; left:700px;">Menu</button></a></button>
 </div>
 
